@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 🤗 
 
 I combine storytelling passion and analytical savvy to business and life.
 
@@ -11,7 +11,7 @@ Graduated from Columbia University, I conducted [political sciences research](ht
 - [Blog Writing](yidatadive.com)
 
 # 📈 Data Science
-- [Wrangling](https://github.com/YiAlpha/data-wrangling-r)
+- [Data Wrangling](https://github.com/YiAlpha/data-wrangling-r)
 - [Visualization](https://github.com/YiAlpha/data-visualization-r)
 - [Machine Learning](https://github.com/YiAlpha/machine-learning-python)
 - [Automate Legal Review](https://github.com/YiAlpha/auto-law-review)
