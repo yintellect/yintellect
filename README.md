@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**YiAlpha/YiAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I combine storytelling passion and analytical savvy to business and life.
 
-Here are some ideas to get you started:
+Currently, working at [Wolfram Research](https://www.wolfram.com/) for strategic initiatives, my daily job is to plant innovative seeds in marketing, branding, and product release using data analytics and strategic reasoning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduated from Columbia University, I conducted [political sciences research](https://github.com/YiAlpha/sharing-deck/blob/main/Columbia%20Thesis%20Presentation.pdf) with [machine learning](https://github.com/YiAlpha/machine-learning-python), [graph theory](https://github.com/YiAlpha/network-analysis-twitter), and [statistical inference](https://github.com/YiAlpha/randomization-simulation-textbook).
+
+# 💡 Workshops
+- [Thoughts Sharing](https://github.com/YiAlpha/sharing-deck)
+- [Web Scrape](https://github.com/YiAlpha/web-scrape-workshop)
+# 📈 Data Science
+- [Wrangling](https://github.com/YiAlpha/data-wrangling-r)
+- [Visualization](https://github.com/YiAlpha/data-visualization-r)
+- [Machine Learning](https://github.com/YiAlpha/machine-learning-python)
+- [Simulation](https://github.com/YiAlpha/card-deck-simulation)
+- [Randomization Inference](https://github.com/YiAlpha/randomization-simulation-textbook)
+# 🤖 Automation
+- [Automate Legal Review](https://github.com/YiAlpha/auto-law-review)
+
+
+
+
