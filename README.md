@@ -1,6 +1,4 @@
-### Hi there 🤗 
-
-I apply my storytelling passion and analytical savvy to research, business, and life.
+🤗  **I apply my storytelling passion and analytical savvy to research, business, and life.**
 
 Graduated from Columbia University, my researches focus on using [Randomized Controlled Trails](https://github.com/YiAlpha/randomization-simulation-textbook) (RCTs, people call it A/B testing in the industry) to [encourage voter turnouts](https://github.com/YiAlpha/meta-learner) and [reduce violence against women](https://github.com/YiAlpha/media-experiment). Meanwhile, I have been pursuing Computational Social Sciences' vision by injecting [machine learning](https://github.com/YiAlpha/machine-learning-python), [automation](https://yialpha.github.io/auto-law-review), and [natural language processing](https://github.com/YiAlpha/nlp-python) into traditional social sciences topics.
 
