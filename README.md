@@ -19,7 +19,7 @@ Besides computational social sciences, I'm also an open-source enthusiast. As a 
 - [Randomization Inference](https://github.com/YiAlpha/randomization-simulation-textbook)
 
 ## 🎤 Data Science Consulting and Worshop
-- [Natural Language Processing](https://yialpha.github.io/nlp-python)
+- [Natural Language Processing](https://github.com/yialpha/nlp-python)
 - [Machine Learning](https://yialpha.github.io/machine-learning-python)
 - [Data Wrangling](https://yialpha.github.io/data-wrangling-r)
 - [Data Visualization](https://yialpha.github.io/data-visualization-r)
