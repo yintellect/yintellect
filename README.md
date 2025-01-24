@@ -1,6 +1,3 @@
-🤗  &nbsp; **I'm an Engagement Lead at Wolfram Research and a Computational Thinking Advocate.**
-
-I'm passionate about helping people learn to think computationally and use technology to solve problems. With a background in statistics and journalism, I have a unique and broad perspective on the intersection of technology and communication. I develop and deliver programs to both educators and students, covering topics such as computational literacy, generative AI, and data science.
 
 ## 🎤 Data Science Consulting and Worshop
 - [Natural Language Processing](https://github.com/yialpha/nlp-python)
